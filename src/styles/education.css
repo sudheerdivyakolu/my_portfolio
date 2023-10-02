@@ -1,0 +1,22 @@
+/* src/components/Education.css */
+.education {
+    margin-bottom: 20px;
+  }
+  
+  .education h3 {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .education p {
+    margin: 0;
+  }
+  
+  .education .degree-info {
+    margin-bottom: 10px;
+  }
+  
+  .education .year {
+    font-weight: bold;
+  }
+  

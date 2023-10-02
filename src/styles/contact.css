@@ -1,0 +1,23 @@
+/* src/components/Contact.css */
+.contact {
+    margin-bottom: 20px;
+  }
+  
+  .contact h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .contact p {
+    margin-bottom: 10px;
+  }
+  
+  .contact .contact-links a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .contact .contact-links a:hover {
+    text-decoration: underline;
+  }
+  

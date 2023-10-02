@@ -1,0 +1,26 @@
+/* src/components/Experience.css */
+.experience {
+    margin-bottom: 20px;
+  }
+  
+  .experience h3 {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .experience p {
+    margin: 0;
+  }
+  
+  .experience .responsibilities {
+    margin-bottom: 10px;
+  }
+  
+  .experience .responsibilities ul {
+    padding-left: 20px;
+  }
+  
+  .experience .year {
+    font-weight: bold;
+  }
+  
